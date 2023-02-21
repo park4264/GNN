@@ -31,7 +31,9 @@
 
 - 시공간 데이터와 시공간적 의존성을 Graphical Model로 바라보려합니다.
 
-
-
 ![img](./img/Git_1.png)
+
+- 이를 위해 Probabilistic Graphical Models에 대한 공부가 필요합니다.
+- 이를 위해 Graph Neural Networks에 대한 공부가 필요합니다.
+
 
