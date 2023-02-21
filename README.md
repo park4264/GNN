@@ -1,3 +1,5 @@
+# Spatial Statistics
+# Spatio-Temporal Statistics
 # GNNs
 
 - Graph Neural Networks를 공부합니다.
