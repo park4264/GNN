@@ -40,3 +40,12 @@
 - 이를 위해 Graph Neural Networks (GNNs)에 대한 공부가 필요합니다.
   - Overview
 
+
+
+
+
+
+
+
+
+https://www.dgl.ai/
