@@ -1,4 +1,3 @@
-# Spatial Statistics & Spatio-Temporal Statistics
 # Spatial-Temporal Graph Neural Networks
 
 
@@ -19,4 +18,13 @@
   - Getting popular as more spatial and/or spatio-temporal data available.
   - Data are spatially referenced so that each data point is associated with the location information.
 
-- 
+- 석사 학위 논문으로 시공간데이터(Spatio-Temporal Data)에 대해 다루며 Spatio-Temporal Data의 형태에 대해 생각해보았습니다.
+
+
+## Spatial Dependence
+
+- To model spatial or spatio-temporal data, we assume that a set of data is a realization of a stochastic process.
+- The most important characteristics of spatial or spatio-temporal data is dependence among data points incorporated with spatial or spatio-temporal information.
+
+## Graphical Model
+
