@@ -34,6 +34,8 @@
 ![img](./img/Git_1.png)
 
 - 이를 위해 Probabilistic Graphical Models에 대한 공부가 필요합니다.
+  - Bayesian Networks
+  - Probabilistic Graphical Models
 - 이를 위해 Graph Neural Networks에 대한 공부가 필요합니다.
-
+  - Overview
 
