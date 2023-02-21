@@ -28,3 +28,10 @@
 
 ## Graphical Model
 
+
+- 시공간 데이터와 시공간적 의존성을 Graphical Model로 바라보려합니다.
+
+
+
+![img](./img/Git_1.png)
+
