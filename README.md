@@ -36,6 +36,7 @@
 - 이를 위해 Probabilistic Graphical Models에 대한 공부가 필요합니다.
   - Bayesian Networks
   - Probabilistic Graphical Models
+  - Pattern Recognition & Machien Learning, Bishop
 - 이를 위해 Recurrent Neural Networks (RNNs)에 대한 공부가 필요합니다.
 - 이를 위해 Graph Neural Networks (GNNs)에 대한 공부가 필요합니다.
   - Overview
