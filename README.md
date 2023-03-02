@@ -2,7 +2,7 @@
 
 
 
-- 박태준
+- 박태준, 2023.01 ~
 - (Spatial-Temporal) Graph Neural Networks를 공부합니다.
 - Deep Learning을 이용해 연관된 CV, NLP 까지의 응용을 공부합니다.
 
